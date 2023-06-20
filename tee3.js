@@ -1,3 +1,2 @@
-<script>
-    alert(1)
-</script>
+alert("Você sabe onde esta?")
+alert("...")
