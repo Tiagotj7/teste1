@@ -1,5 +1,5 @@
-//alert("Você sabe onde esta?")
-//alert("...")
+alert("Você sabe onde esta?")
+alert("...")
 
 // Exibe a tela de espera
 function showLoading() {
