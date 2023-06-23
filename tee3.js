@@ -1,5 +1,5 @@
-alert("Você sabe onde esta?")
-alert("...")
+//alert("Você sabe onde esta?")
+//alert("...")
 
 // Exibe a tela de espera
 function showLoading() {
@@ -9,7 +9,6 @@ function showLoading() {
   // Oculta a tela de espera
   function hideLoading() {
     document.getElementById('loading').style.display = 'none';
-    var tempoEspera =3000;
   }
   
   // Defina o tempo de espera em milissegundos (por exemplo, 3 segundos = 3000)
