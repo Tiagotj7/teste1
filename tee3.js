@@ -1,6 +1,6 @@
 alert("Você sabe onde esta?")
 alert("...")
-
+/*
 // Exibe a tela de espera
 function showLoading() {
     document.getElementById('loading').style.display = 'flex';
@@ -22,4 +22,4 @@ function showLoading() {
     hideLoading();
   }, tempoEspera);
   
-
+  */
