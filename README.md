@@ -1,1 +1,29 @@
 # teste1
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Login Projeto Cobaia</title>
+
+    <!--<meta http-equiv="refresh" content="5; url=https://1.bp.blogspot.com/-xEi_sC32s44/Xf25vWzT0-I/AAAAAAAAiXA/iSHtmjaVr5oBJi83JIUmKxosp2xYzxPbACLcBGAsYHQ/s2560/hacker-world-computer-dq-2560x1440.jpg"> -->
+    <meta http-equiv="refresh" content="5; url= ttee1.html">
+<!--teste de outra imagem no codigo
+    <div id="loading"></div>
+        <img src="https://thumbs.dreamstime.com/b/portátil-azul-de-néon-do-vetor-com-as-engrenagens-na-tela-nos-datos-matriciais-que-programam-o-fundo-código-135288647.jpg" alt="loading..."> -->
+      
+ <img src="https://c1.wallpaperflare.com/preview/399/434/452/welcome-sign-signage-background-sign.jpg" 
+    height="100%"
+      width="100%"> 
+ 
+
+    
+</head>
+<body>
+    
+</body>
+</html>
+ <!--Pagina de Comando 1-->
